@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/logisticss/static/css/main.cb9177eb.css",
+    "main.js": "/logisticss/static/js/main.3218ca55.js",
+    "static/js/453.c6189fa1.chunk.js": "/logisticss/static/js/453.c6189fa1.chunk.js",
+    "static/media/homebg.JPG": "/logisticss/static/media/homebg.a6163e60bd9338828fc4.JPG",
+    "static/media/icon1.png": "/logisticss/static/media/icon1.fddb0bedd34ab0248dc9.png",
+    "static/media/card1.jpg": "/logisticss/static/media/card1.952b05c32df1cea213b0.jpg",
+    "static/media/card3.jpg": "/logisticss/static/media/card3.1b387422f9613cdf662e.jpg",
+    "static/media/card4.jpg": "/logisticss/static/media/card4.d28f7895ddd89e057ac4.jpg",
+    "static/media/card2.jpg": "/logisticss/static/media/card2.fd5b81170c37323d6689.jpg",
+    "static/media/logo.jpg": "/logisticss/static/media/logo.a74183ba8c336680c102.jpg",
+    "index.html": "/logisticss/index.html",
+    "main.cb9177eb.css.map": "/logisticss/static/css/main.cb9177eb.css.map",
+    "main.3218ca55.js.map": "/logisticss/static/js/main.3218ca55.js.map",
+    "453.c6189fa1.chunk.js.map": "/logisticss/static/js/453.c6189fa1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb9177eb.css",
+    "static/js/main.3218ca55.js"
+  ]
+}
